@@ -42,15 +42,15 @@ vendor/lib64/libbt-hidlclient.so|e7cc68021ff2a38728a50c92914420ba61d2c5c3
 vendor/lib64/vendor.qti.hardware.fm@1.0.so|b72b6bc0f79ef8289f4b543910e7e2d91961831f
 vendor/lib64/com.qualcomm.qti.ant@1.0.so|ce9b89df917622cf1e0e58aa3b3be6e410c4c2d7
 
-# Motorola Camera - from aljeter - PPP29.55-25
-lib/motorola.hardware.camera.device@1.0.so:vendor/lib/motorola.hardware.camera.device@1.0.so|51afafb043bb3fce3509938103e6e6f6f792c7bb
-lib/motorola.hardware.camera.provider@2.4.so:vendor/lib/motorola.hardware.camera.provider@2.4.so|d8b540c4690b8d9253dc6a49e1189abf67017a2c
-vendor/lib/motcamera.device@1.0-impl.so|1b37e7763ddab908d2e33691bf34bc7013b99b4b
+# Motorola Camera - from aljeter - PPPS29.55-35-18-7
+lib/motorola.hardware.camera.device@1.0.so:vendor/lib/motorola.hardware.camera.device@1.0.so|829709a78ca9ee2551282fbe25ac5961c62b50f2
+lib/motorola.hardware.camera.provider@2.4.so:vendor/lib/motorola.hardware.camera.provider@2.4.so|4293ccd02e4c5d3749b00cea625cb60c9cb812de
+vendor/lib/motcamera.device@1.0-impl.so|3f2c05517475a6b8744f9d9a13afb7176ff632c3
 vendor/bin/hw/motorola.hardware.camera.provider@2.4-service|01bd4b9c30dd944ad8572b46a92db23f97fc0c25
 vendor/etc/init/motorola.hardware.camera.provider@2.4-service_delayed.rc|4b5afc7a0cd01c2e82bf65e83adbb95c1ba4964f
-vendor/lib/hw/motorola.hardware.camera.provider@2.4-impl.so|a1ea1616ce72af2885b15fb9e69da8510e20aef8
-vendor/lib/motorola.hardware.camera.device@1.0_vendor.so|f4af15944d8dfc8169edc7d579610ab3b1f88c22
-vendor/lib/motorola.hardware.camera.provider@2.4_vendor.so|3be5ac465a50e2426a834949c392b411e78fa6e5
+vendor/lib/hw/motorola.hardware.camera.provider@2.4-impl.so|1549f3131302548748cbd372c8554a7148880f69
+vendor/lib/motorola.hardware.camera.device@1.0_vendor.so|60027af614c72644c5dd8cc32b33dfa7188dad02
+vendor/lib/motorola.hardware.camera.provider@2.4_vendor.so|9d741f63efd5f0f884472e7de55598c15c5f4d3a
 
 # Camera firmware
 vendor/firmware/cpp_firmware_v1_10_0.fw
